@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">LogOut</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="app_id">1668192140064803</string>
+
+
+</resources>
